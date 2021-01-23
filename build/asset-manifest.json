@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Keeper-Notebook-App/static/js/main.e6767fe9.chunk.js",
+    "main.js.map": "/Keeper-Notebook-App/static/js/main.e6767fe9.chunk.js.map",
+    "runtime-main.js": "/Keeper-Notebook-App/static/js/runtime-main.33560e46.js",
+    "runtime-main.js.map": "/Keeper-Notebook-App/static/js/runtime-main.33560e46.js.map",
+    "static/js/2.97a36b50.chunk.js": "/Keeper-Notebook-App/static/js/2.97a36b50.chunk.js",
+    "static/js/2.97a36b50.chunk.js.map": "/Keeper-Notebook-App/static/js/2.97a36b50.chunk.js.map",
+    "index.html": "/Keeper-Notebook-App/index.html",
+    "static/js/2.97a36b50.chunk.js.LICENSE.txt": "/Keeper-Notebook-App/static/js/2.97a36b50.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33560e46.js",
+    "static/js/2.97a36b50.chunk.js",
+    "static/js/main.e6767fe9.chunk.js"
+  ]
+}
